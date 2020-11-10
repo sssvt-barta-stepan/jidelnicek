@@ -1,7 +1,1 @@
-namespace MyNamespace
-
-	public class Program
-
-	  public static voide Main(string[] args)
-
-          Console.WriteLine("Ahoj!");
+Masturbátor - honítko
